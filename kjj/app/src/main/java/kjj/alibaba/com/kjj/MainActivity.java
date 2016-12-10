@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void hideView(){
         lin.setVisibility(View.GONE);
         fra.setVisibility(View.GONE);
-        fra.setVisibility(View.GONE);
+        rel.setVisibility(View.GONE);
     }
 
     @Override
